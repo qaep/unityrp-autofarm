@@ -1,6 +1,6 @@
 # Système autonome de farm pour UnityRP v2
 <p align="center">
-  <img src="img/header.png" alt="header" height="400">
+  <img src="img/header.png" alt="header" style="max-height: 550px; width: auto;">
 </p>
 
 ---
