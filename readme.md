@@ -49,12 +49,12 @@ Je conseille l'utilisation de packs graphiques permettant qu'il fasse toujours j
 - **F10** : Arrêter
 
 ### Limites
-- Facilement détectable par un staff à cause de la façon dont le personnage se déplace (voir [movement.py](movement.py))
--# j'ai pas réussi à bien émuler la souris dans fivem
 
-- Aussi détectable par la couleur statique rose du camion s'ils sont au courant, mais changeable dans [vision.py](vision.py)
-- Pas 100% automatique car le camion est forcément plein à un moment
-
+| Problème | Description |
+|---|---|
+| Mouvement | Détectable par un staff à cause du déplacement du personnage (voir [movement.py](movement.py)). |
+| Camion | Détection possible via la couleur rose statique, modifiable dans [vision.py](vision.py). |
+| Stockage | Pas 100% automatique car le camion finit forcément par être plein. |
 ### License
 
 **This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.**
