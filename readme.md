@@ -35,7 +35,9 @@ cd unityrp-autofarm
 ```
 
 ## Camion
-Afin d'utiliser la fonctionnalité pour poser les items récoltés dans un camion ou un véhicule, il faudra impérativement que votre camion ait cette couleur rose pour qu'il soit détecté: ![Camion](img/camion.png)
+Afin d'utiliser la fonctionnalité pour poser les items récoltés dans un camion ou un véhicule, il faudra impérativement que votre camion ait cette couleur rose pour qu'il soit détecté :
+
+<img src="img/camion.png" alt="Camion" width="200">
 
 ## Conseils d'utilisation
 Je conseille l'utilisation de packs graphiques permettant qu'il fasse toujours jour afin d'avoir une luminosité optimale ainsi qu'un mod pour lisser les terrains et un mod pour enlever la végétation environnantes pour une utilisation du système idéale.
