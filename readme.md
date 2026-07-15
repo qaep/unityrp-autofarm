@@ -17,6 +17,7 @@ Celui-ci gère automatiquement **déplacement**, **détection des cercles**, **r
 - [Camion](#camion)
 - [Conseils d'utilisation](#conseils-dutilisation)
 - [Contrôles](#contrôles)
+- [Limites](#limites)
 - [License](#license)
 
 ## Prérequis
@@ -46,6 +47,13 @@ Je conseille l'utilisation de packs graphiques permettant qu'il fasse toujours j
 - **F8** : Afficher les statistiques
 - **F9** : Mettre le système en pause
 - **F10** : Arrêter
+
+### Limites
+- Facilement détectable par un staff à cause de la façon dont le personnage se déplace (voir [movement.py](movement.py))
+-# j'ai pas réussi à bien émuler la souris dans fivem
+
+- Aussi détectable par la couleur statique rose du camion s'ils sont au courant, mais changeable dans [vision.py](vision.py)
+- Pas 100% automatique car le camion est forcément plein à un moment
 
 ### License
 
