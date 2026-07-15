@@ -1,8 +1,12 @@
 # Système autonome de farm pour UnityRP v2
-<img src="img/header.png" alt="header" width="600">
+<p align="center">
+  <img src="img/header.png" alt="header" height="400">
+</p>
 
+---
 Ce projet fonctionne par vision par ordinateur via des masques hsv en utilisant opencv pour capter des faisceaux. Il est uniquement à but d'éducation et d'analyse.
 Il est aussi spécifiquement destiné au serveur UnityRP V2 de FiveM. 
+
 Celui-ci gère automatiquement **déplacement**, **détection des cercles**, **récolte**, **consommation** et **pose des objets récoltés dans un coffre** : [Camion](#camion)
 
 ## Sommaire
