@@ -50,10 +50,10 @@ Je conseille l'utilisation de packs graphiques permettant qu'il fasse toujours j
 
 ### Limites
 
-| Problème | Description |
+| Limite | Explication |
 |---|---|
-| Mouvement | Détectable par un staff à cause du déplacement du personnage (voir [movement.py](movement.py)). |
-| Camion | Détection possible via la couleur rose statique, modifiable dans [vision.py](vision.py). |
+| Mouvement | Détectable par un staff à cause du déplacement du personnage (voir [movement.py](movement.py)) |
+| Camion | Détection possible via la couleur rose statique, modifiable dans [vision.py](vision.py#L30-L32) |
 | Stockage | Pas 100% automatique car le camion finit forcément par être plein. |
 ### License
 
